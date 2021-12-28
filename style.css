@@ -1,0 +1,29 @@
+.header {
+    width: 100%;
+    height: 25%;
+    display: block;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: large;
+    font-variant: small-caps;
+    font-style: oblique;
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 150px;
+    position: relative;
+    padding: 5px 5px;
+}
+
+body{
+	background: url("115.jpg");
+}
+p {
+background-color: cornflowerblue;
+color: cornsilk;
+margin: 10px 20px 30px 40px;
+margin: 10px
+padding: 10px;
+}
+
+h1,h2,h3 {
+color: white;
+}
